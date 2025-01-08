@@ -1,0 +1,9 @@
+@use '../utils/' as u;
+
+header{
+    h1{
+        font-size: u.rem(60);
+        color: var(--cl-red);
+        font-weight: 800;
+    }
+}
